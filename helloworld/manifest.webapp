@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "name": "Hello World!",
+  "description": "first firefox app.",
+  "launch_path": "/app.html",
+  "icons": {
+  },
+  "developer": {
+    "name": "Hello",
+    "url": "http://ryolink.github.io/"
+  },
+  "default_locale": "ja"
+}
