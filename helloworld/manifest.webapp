@@ -2,7 +2,7 @@
   "version": "0.1",
   "name": "Hello World!",
   "description": "first firefox app.",
-  "launch_path": "/app.html",
+  "launch_path": "/helloworld/app.html",
   "icons": {
   },
   "developer": {
