@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "0.1.1",
   "name": "Hello World!",
   "description": "first firefox app.",
   "launch_path": "/helloworld/app.html",
